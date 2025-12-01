@@ -12,6 +12,7 @@ This repository contains information about different EDI technologies, such as f
 | UBL 2.2 | Universal Business Language 2.2 | OASIS | 9 July 2018 |
 | UBL 2.3 | Universal Business Language 2.3 | OASIS | 15 June 2021 |
 | UBL 2.4 | Universal Business Language 2.4 | OASIS | 20 June 2024 |
+| UN/EDIFACT Syntax | | ISO 9735 | |
 
 ## Protocols
 
